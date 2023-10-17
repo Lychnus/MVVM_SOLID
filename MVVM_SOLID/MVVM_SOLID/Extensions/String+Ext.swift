@@ -8,7 +8,6 @@
 import Foundation
 
 extension String {
-    
     /// This function checks the String value to returns a boolean depending if it pass or fail according to give regex.
     ///
     /// - Parameters:
